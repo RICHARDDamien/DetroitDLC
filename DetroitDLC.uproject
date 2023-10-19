@@ -40,6 +40,10 @@
 				"Win64",
 				"Mac"
 			]
+		},
+		{
+			"Name": "LiveLinkControlRig",
+			"Enabled": true
 		}
 	]
 }
